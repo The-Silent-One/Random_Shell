@@ -1,1 +1,1 @@
-These are random scripts I made eachone automates a task. 
+These are random scripts I made each one automates a task. 
